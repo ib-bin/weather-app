@@ -2,6 +2,7 @@
 
 A simple application that displays the current weather for any city around the world using the OpenWeatherMap API.
 
+🔗 **Live Demo:** [View Website](https://ib-bin.github.io/weather-app/)
 ## 📸 Preview
 
 ![Weather App Screenshot](images/screenshot.png)
@@ -20,3 +21,4 @@ A simple application that displays the current weather for any city around the w
 - OpenWeatherMap API
 - Font Awesome
 - Google Fonts
+
